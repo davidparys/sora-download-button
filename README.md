@@ -2,7 +2,7 @@
 
 A simple and elegant Chrome extension that adds a download button to images on Sora's gallery (sora.chatgpt.com). The extension seamlessly integrates with Sora's existing UI, making it easy to download and view high-resolution AI-generated images.
 
-![Sora Image Downloader Demo](shot.png)
+![Sora Image Downloader Demo](assets/shot.png)
 
 ## Features
 
