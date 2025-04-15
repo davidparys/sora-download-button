@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Sora Image Downloader",
+    "version": "3.0",
+    "description": "Add download buttons to Sora images",
+    "author": "https://github.com/davidparys",
+    "permissions": [
+        "activeTab"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://sora.chatgpt.com/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "icons": {
+        "48": "icon48.png",
+        "128": "icon128.png"
+    }
+}
